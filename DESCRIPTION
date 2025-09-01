@@ -1,0 +1,37 @@
+Package: cobin
+Title: Cobin and Micobin Regression Models for Continuous Proportional
+        Data
+Version: 1.0.1.3
+Authors@R: 
+  c(person("Changwoo",
+           "Lee", 
+           email = "changwoo.lee@duke.edu", 
+           role = c("aut", "cre")),
+    person("Benjamin",
+           "Dahl", 
+           role = c("aut")),
+    person("Otso", 
+           "Ovaskainen",
+           role = c("aut")),
+    person("David",
+           "Dunson",
+           role = c("aut")))
+Description: Provides functions for cobin and micobin regression models, a new family of generalized linear models for continuous proportional data (Y in the closed unit interval [0, 1]). It also includes an exact, efficient sampler for the Kolmogorov-Gamma random variable. For details, see Lee et al. (2025+) <doi:10.48550/arXiv.2504.15269>.
+License: MIT + file LICENSE
+URL: https://github.com/changwoo-lee/cobin
+BugReports: https://github.com/changwoo-lee/cobin/issues
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+LinkingTo: Rcpp
+Imports: coda, fields, lme4, Matrix, matrixStats, methods, Rcpp, spam,
+        spNNGP, stats, utils
+Suggests: betareg
+NeedsCompilation: yes
+Packaged: 2025-08-27 03:21:29 UTC; clee
+Author: Changwoo Lee [aut, cre],
+  Benjamin Dahl [aut],
+  Otso Ovaskainen [aut],
+  David Dunson [aut]
+Maintainer: Changwoo Lee <changwoo.lee@duke.edu>
+Repository: CRAN
+Date/Publication: 2025-09-01 17:10:27 UTC
