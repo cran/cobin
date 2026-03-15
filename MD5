@@ -1,4 +1,4 @@
-f4b62b569899612dc7740efbe7038dfd *DESCRIPTION
+04da00e106bff5802bd1aed5c509d102 *DESCRIPTION
 e02a1c57aa1ec0fcd5fad5ed045e451f *LICENSE
 f5edca2711c97b7c129c7ad916afd18d *NAMESPACE
 9519c28fb279e914804eb77c6d605072 *R/CB.R
@@ -9,7 +9,7 @@ bad6fd75b594e97819b522f9a4ebfd18 *R/build_sparseprecision.R
 26fb152be2a099153795cc250acdf759 *R/cobin.R
 1742b1228f166283906d9b9419cdb38c *R/cobindist.R
 ff97c524fbef0e967ac1d3a15e36bd8d *R/cobinfamily.R
-4bf5f06d38e962648ead625e34e9b047 *R/cobinreg.R
+f415cc110f5847bd7efbdfdb49e67c80 *R/cobinreg.R
 3be9f1264d0a647dbd9c6882ea138be7 *R/fit_cobin_fixedeffect.R
 328b3227d6ad7a555f0fd2c2aa65e6aa *R/fit_cobin_fixedeffect_lambdafixed.R
 cdf8759b2a3ffd2b1a74aa5d95ea0a9c *R/fit_cobin_fixedeffect_mh.R
@@ -23,12 +23,12 @@ c1539f04725cc8a528fc6fd1d2233fd3 *R/fit_micobin_spatial.R
 9b65e29580d403970b05978848493cab *R/fit_micobin_spatial_NNGP.R
 7112fcbd7e0e9071bd5b90ec912ef739 *R/glm.cobin.R
 e63fcf417b66fa551398abc676922dee *R/micobindist.R
-e06ccd8e28708424fbcc4701ca7b8a88 *R/micobinreg.R
-f32ef98b4a3527dcac27b1176ff91e1a *R/misc.R
-d4a2492d967303944cb8a0bec16c4755 *R/spcobinreg.R
-0eb914f63e1e5d4b7aec0ffc63b3e7a0 *R/spmicobinreg.R
-763d1d7fa22aa5a8f9d48b90b1e33723 *R/varfunctions.R
-d73252c9f820f3d6fffadb2b0998319b *README.md
+3f9a4cf5213a94c7864564885244f06c *R/micobinreg.R
+7c460ccda05af73c866a283304b15d35 *R/misc.R
+14b789558e95306e7e54af845049eead *R/spcobinreg.R
+072a78ff8fd5b5151b8ee5963901c800 *R/spmicobinreg.R
+5f550aee9971b2e4c27966d80fb4fb8e *R/varfunctions.R
+76fa7abff06f7160479eb7d6448d76a7 *README.md
 dd92112d2ec2fda23bc2857cd5435bd1 *man/Vft.Rd
 b1bfc4c1a448b811433b61614dde052c *man/bft.Rd
 28f681ea01f7e44dc76374c61b518f12 *man/bftprime.Rd
